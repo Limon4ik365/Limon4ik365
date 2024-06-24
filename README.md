@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif"></p>
 
 <h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="gif">I'm Mikhail</h1>
-===============================================================================================================================
+
 <h1 align="center">
 I'm a beginner programmer
 </h1>
